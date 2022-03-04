@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yato
+- 👋 Hi, I’m Yato
 - 👀 I’m interested in ...game development 
 - 🌱 I’m currently learning ...computer programming 
 - 💞️ I’m looking to collaborate on ...telegram 
